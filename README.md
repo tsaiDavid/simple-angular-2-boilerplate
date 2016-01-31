@@ -1,1 +1,1 @@
-# simple-angular-2-boilerplate
+# simple-angular2-boilerplate
